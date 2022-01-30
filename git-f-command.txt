@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "fifth commit"
+git push https://github.com/webzool/cryptosino.git -f
