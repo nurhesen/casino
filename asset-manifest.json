@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gaming/static/css/main.c17bcacc.chunk.css",
-    "main.js": "/gaming/static/js/main.8a895326.chunk.js",
-    "main.js.map": "/gaming/static/js/main.8a895326.chunk.js.map",
-    "runtime-main.js": "/gaming/static/js/runtime-main.44acd5d4.js",
-    "runtime-main.js.map": "/gaming/static/js/runtime-main.44acd5d4.js.map",
-    "static/css/2.3521d855.chunk.css": "/gaming/static/css/2.3521d855.chunk.css",
-    "static/js/2.c18d7004.chunk.js": "/gaming/static/js/2.c18d7004.chunk.js",
-    "static/js/2.c18d7004.chunk.js.map": "/gaming/static/js/2.c18d7004.chunk.js.map",
-    "static/js/3.323102ef.chunk.js": "/gaming/static/js/3.323102ef.chunk.js",
-    "static/js/3.323102ef.chunk.js.map": "/gaming/static/js/3.323102ef.chunk.js.map",
-    "index.html": "/gaming/index.html",
-    "static/css/2.3521d855.chunk.css.map": "/gaming/static/css/2.3521d855.chunk.css.map",
-    "static/css/main.c17bcacc.chunk.css.map": "/gaming/static/css/main.c17bcacc.chunk.css.map",
-    "static/js/2.c18d7004.chunk.js.LICENSE.txt": "/gaming/static/js/2.c18d7004.chunk.js.LICENSE.txt"
+    "main.css": "/casino/static/css/main.c17bcacc.chunk.css",
+    "main.js": "/casino/static/js/main.ab13fa39.chunk.js",
+    "main.js.map": "/casino/static/js/main.ab13fa39.chunk.js.map",
+    "runtime-main.js": "/casino/static/js/runtime-main.94bad87c.js",
+    "runtime-main.js.map": "/casino/static/js/runtime-main.94bad87c.js.map",
+    "static/css/2.3521d855.chunk.css": "/casino/static/css/2.3521d855.chunk.css",
+    "static/js/2.c18d7004.chunk.js": "/casino/static/js/2.c18d7004.chunk.js",
+    "static/js/2.c18d7004.chunk.js.map": "/casino/static/js/2.c18d7004.chunk.js.map",
+    "static/js/3.323102ef.chunk.js": "/casino/static/js/3.323102ef.chunk.js",
+    "static/js/3.323102ef.chunk.js.map": "/casino/static/js/3.323102ef.chunk.js.map",
+    "index.html": "/casino/index.html",
+    "static/css/2.3521d855.chunk.css.map": "/casino/static/css/2.3521d855.chunk.css.map",
+    "static/css/main.c17bcacc.chunk.css.map": "/casino/static/css/main.c17bcacc.chunk.css.map",
+    "static/js/2.c18d7004.chunk.js.LICENSE.txt": "/casino/static/js/2.c18d7004.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.44acd5d4.js",
+    "static/js/runtime-main.94bad87c.js",
     "static/css/2.3521d855.chunk.css",
     "static/js/2.c18d7004.chunk.js",
     "static/css/main.c17bcacc.chunk.css",
-    "static/js/main.8a895326.chunk.js"
+    "static/js/main.ab13fa39.chunk.js"
   ]
 }
